@@ -4,4 +4,6 @@ First, [download this image from the link here](http://jonathangrover.com/teachi
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/i61lTJ6OpDE?list=PLj148bJp5wiysyRx_Yza7VUXufTXJ-MUP" frameborder="0" allowfullscreen></iframe>
 
+[HTML Encoding (Character Sets)](http://www.w3schools.com/html/html_charset.asp)
+
 <a href='https://learn.co/lessons/fe-code-along-ex-1' data-visibility='hidden'>View this lesson on Learn.co</a>
