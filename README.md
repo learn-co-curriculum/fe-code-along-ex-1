@@ -6,4 +6,4 @@ First, [download this image from the link here](http://jonathangrover.com/teachi
 
 [HTML Encoding (Character Sets)](http://www.w3schools.com/html/html_charset.asp)
 
-<a href='https://learn.co/lessons/fe-code-along-ex-1' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-1' title='Code Along Exercise 1 ~ 1hr'>Code Along Exercise 1 ~ 1hr</a> on Learn.co and start learning to code for free.</p>
