@@ -1,15 +1,18 @@
 # Code Along Exercise 1 ~ 1hr
 
 First, download this image: 
-![download this image](https://curriculum-content.s3.amazonaws.com/fewds/intro-pic.jpg) 
+![download this image](https://github.com/Enoch2k2/CSS-Styling-v-000/blob/master/images/intro-pic.jpg) 
 
 Right click on the image and select Save Image As. It can be saved to the Downloads folder at: `~/Downloads`. 
 You will need the image to complete the exercise below. These videos are also available as a single [continuous playlist from the link here](https://www.youtube.com/watch?v=i61lTJ6OpDE&list=PLj148bJp5wiysyRx_Yza7VUXufTXJ-MUP).
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/i61lTJ6OpDE?list=PLj148bJp5wiysyRx_Yza7VUXufTXJ-MUP" frameborder="0" allowfullscreen></iframe>
-**Note:** The command `git co` that is used not a git command, but a custom shortcut. The correct command should
-be `git checkout -b main-pages`.
+**Note:** The command `git co` that is used not a git command, but a custom shortcut. 
+The correct command should be `git checkout -b main-pages`.
 
+Videos:
+- [Video MP4](https://github.com/Enoch2k2/CSS-Styling-v-000/blob/master/videos/real-estate.mp4)
+- [Video OGV](https://github.com/Enoch2k2/CSS-Styling-v-000/blob/master/videos/real-estate.ogv)
 
 ## Resources 
 - [HTML Encoding (Character Sets)](http://www.w3schools.com/html/html_charset.asp)
